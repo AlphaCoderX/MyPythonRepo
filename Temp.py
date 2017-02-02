@@ -3,12 +3,12 @@
 #Version 1.0
 data = []
 file = open('temp.txt','r')
-
+#reads and adds the text file to a list
 def readTemps():
     for temp in file.read().split():
         data.append(float(temp))
     return data
-    
+#calculates and returns average    
 def calcAvg(temp,start,stop):
     total = 0
     for x in range(start,stop):
@@ -20,7 +20,7 @@ def calcAvg(temp,start,stop):
         average = total/num
 
     return average
-    
+#finds and returns the positive numbers     
 def count(temp, start, stop):    
     counter = 0
     for x in range(start,stop):
