@@ -47,8 +47,7 @@ def main():
      counter1 = count(temps,0,finalnum)
      counter2 = count(temps,finalnum,116)
      deviation1 = calcAvg(temps,0,finalnum)
-     deviation2 = calcAvg(temps,finalnum,116)
-     
+     deviation2 = calcAvg(temps,finalnum,116)  
      print "During the first %s years, the average deviation from the temprature anomoly was %s" % (finalnum, deviation1)
      print "During the first %s years, %s had a positive temprature anomoly" % (finalnum , counter1)
      print "During the last %s years, the average deviation from the temprature anomoly was %s" % (finalnum2, deviation2)
