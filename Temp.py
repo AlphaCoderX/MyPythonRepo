@@ -14,7 +14,6 @@ def calcAvg(temp,start,stop):
     for x in range(start,stop):  
         total = (total + data[x])
         num = x + 1
-
         num = stop - start
         average = total/num
 
