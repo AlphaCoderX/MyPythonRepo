@@ -23,8 +23,7 @@ def calcAvg(temp,start,stop):
 def count(temp, start, stop):    
     counter = 0
     for x in range(start,stop):
-        
-        if data[x] > 0:
+         if data[x] > 0:
            counter += 1
            
     return counter  
