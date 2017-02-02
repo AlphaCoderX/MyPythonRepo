@@ -11,8 +11,7 @@ def readTemps():
 #calculates and returns average    
 def calcAvg(temp,start,stop):
     total = 0
-    for x in range(start,stop):
-        
+    for x in range(start,stop):  
         total = (total + data[x])
         num = x + 1
 
