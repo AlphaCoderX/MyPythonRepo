@@ -41,7 +41,6 @@ def user():
     
 def main():
     
-    
      finalnum = user()
      finalnum2 = 116 - finalnum
      temps = readTemps()
