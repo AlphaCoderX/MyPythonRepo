@@ -37,8 +37,7 @@ def user():
     number = int(num)
            
     return number
-    
-    
+        
 def main():
     
      finalnum = user()
