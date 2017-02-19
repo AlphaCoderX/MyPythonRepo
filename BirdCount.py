@@ -65,7 +65,7 @@ def main():
     checker = True
 
     while checker: 
-        birdData = countBirds('BirdData.txt')
+        birdData = countBirds('Birds.txt')
         user = askUser(birdData)
 
 
