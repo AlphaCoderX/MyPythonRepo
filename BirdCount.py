@@ -1,7 +1,6 @@
 #Programmer Raphael Heinen
 #Date 2/19/17
 #Version 1.0
-
 # ------------------------------------------------------------
 # For a badge do the following:
 #
