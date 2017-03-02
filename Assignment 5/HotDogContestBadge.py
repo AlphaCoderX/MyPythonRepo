@@ -1,3 +1,6 @@
+#Programmer Raphael Heinen
+#Date 3/1/17
+#Version 1.0
 import functions
 import random
 import time
