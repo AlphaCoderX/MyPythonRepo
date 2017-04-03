@@ -48,25 +48,25 @@ def user(filelist,wordlist):
     for i in wordlist:
         if term in i:
             count += 1
-            #print "I found %s results" %count
+            
             print "%s: %s" % (filelist[0], i)
             
     for i in wordlist2:
         if term in i:
             count += 1
-            #print "I found %s results" %count
+            
             print "%s: %s" % (filelist[1], i)
 
     for i in wordlist3:
         if term in i:
             count += 1
-            #print "I found %s results" %count
+            
             print "%s: %s" % (filelist[2], i)
 
-    for i in wordlist3:
+    for i in wordlist4:
         if term in i:
             count += 1
-            #print "I found %s results" %count
+            
             print "%s: %s" % (filelist[3], i)
 
     print "I found %s results" %count
