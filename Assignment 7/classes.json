@@ -1,0 +1,7 @@
+[
+{"Professor" : "Joseph Lee", "Class" : ["Networking II"], "Time" : "MWF", "Location" : "Bowman Hall 120"},
+{"Professor" : "Elizabeth Hartung", "Class" : ["Discrete Mathematics"], "Time" : "Tuesday-Thurday", "Location" : "Bowman Hall 206"},
+{"Professor" : "Mark Cohen", "Class" : ["Object Oriented"], "Time" : "Hybrid-Thurday", "Location" : "Bowman Hall 120"},
+{"Professor" : "Mark Cohen", "Class" : ["Python"], "Time" : "Online", "Location" : "N/A"},
+{"Professor" : "Mark Cohen", "Class" : ["Server Side"], "Time" : "Hybrid-Thurday", "Location" : "Bowman Hall 106"}
+]
